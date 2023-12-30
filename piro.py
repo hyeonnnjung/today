@@ -5,3 +5,6 @@ def order(order):
     return
 def product(product):
     return
+
+def pay():
+    return 5
